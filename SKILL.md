@@ -40,6 +40,7 @@ Use this skill to turn a local project into a repeatable README showcase pipelin
 - Capture both desktop and mobile for responsive web apps. For mobile apps or APK previews, capture a phone viewport first.
 - Treat `gallery.html` as the full visual archive and README as the curated front page.
 - Preserve existing user README content outside the `<!-- showcase:start -->` and `<!-- showcase:end -->` block.
+- For public repositories, make the visual set professional, beautiful, and universal: polished enough for first impressions, restrained enough for GitHub, and free of private paths, secrets, login-only states, or owner-specific assumptions.
 
 ## Script Map
 
